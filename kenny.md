@@ -10,3 +10,5 @@ After a couple difficult years I switched to Computer Science and truly enjoyed 
 My favorite animal are dogs.
 
 My favorite color is green.
+
+Copyright by Kenneth Richardson
