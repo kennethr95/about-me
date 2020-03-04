@@ -1,6 +1,6 @@
 Testing default editor
 *My Life
-*An Autobiography by Kenny Richardson
+*An Autobiography by KENNY RICHARDSON
 
 **Education
 
